@@ -1,0 +1,24 @@
+{
+  "name": "quick-dashboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "discord-oauth2": "^2.6.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTeaCup/quick-dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTeaCup/quick-dashboard/issues"
+  },
+  "homepage": "https://github.com/TheTeaCup/quick-dashboard#readme"
+}

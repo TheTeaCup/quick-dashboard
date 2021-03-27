@@ -1,0 +1,6 @@
+{
+  "ID": "",
+  "SECRET": "",
+  "PORT": "3000",
+  "CALLBACK": "URL/callback"
+}
